@@ -1,17 +1,17 @@
 // Активировать документы (true - включены, false - отключены)
-var isRightsEnabled = true; // Права
-var isCovidCertificateEnabled = true; // COVID-сертификат
+var isRightsEnabled = false; // Права
+var isCovidCertificateEnabled = false; // COVID-сертификат
 
 // Общее
 var birthdate = "01.01.2001"; // Дата рождения
-var fullname = "Фамилия Имя Отчество" // ФИО
-var name = "Имя" // Имя
+var fullname = "Іванченко Максим Сергійович" // ФИО
+var name = "Максим" // Имя
 
 // Паспорт
-var passport_id = "123456789" // Номер паспорта
+var passport_id = "850901583" // Номер паспорта
 
 // КПП
-var kpp_id = "0123456789" // ИНН
+var kpp_id = "997594726" // ИНН
 
 // Права
 var rights_valid_until = "01.01.2022" // Права "Дійсні до"
